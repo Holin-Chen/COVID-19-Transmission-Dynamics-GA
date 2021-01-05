@@ -1,6 +1,6 @@
 # Transmission of COVID-19 in the state of Georgia, United States: Spatiotemporal variation and impact of social distancing
 
-*For the full contents of our research, please visit [our preprint on medRxiv]("https://www.medrxiv.org/content/10.1101/2020.10.22.20217661v1").*
+*For the full contents of our research, please visit [our preprint on medRxiv](https://www.medrxiv.org/content/10.1101/2020.10.22.20217661v1).*
 
 This is an Emory COVID-19 response project collabrated with the Georgia Department of Public Health (GDPH) to help in guiding the state in prevention and control of COVID -19. We used the clinical data provided by GDPH to study the COVID-19 transmission in Georgia by identifying transmission patterns according to disease symptoms, demographics, and time periods. In addition, we examined the transmission dynamics by quantifying the time scale of spreading, summarized by serial interval, and estimating the magnitude of spreading, summarized by time-varied reproduction number Rt, for COVID-19. 
 
