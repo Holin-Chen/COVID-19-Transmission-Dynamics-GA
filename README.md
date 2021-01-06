@@ -14,7 +14,7 @@ We estimated probabilities of transmission between any pair of cases in an outbr
 
 When the transmission probability matrix is known, it can be used to calculate reproduction numbers. Elements of row i show the probabilities of case i having received their infection from any other case in the observed population. Rows of the matrix must therefore add to 1. Likewise, elements of column j show the probabilities that case j has transmitted their infection to any other cases in the observed population. Columns of the matirx therefore add to an estimate of the number of cases infected by case j: its reproduction number R<sub>t</sub>.
 
-Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2020, we estimated effective reproduction numbers (R<sub>t</sub>) by date, using dates of symptoms onset and social contact informa148 tion (wherever available) in each county independently by estimating the transmission probability matrix. Among 118,491 confirmed cases, 48,887 (41.3%) had a missing date of symptom onset. These missing symptom onset dates were imputed based on dates of first specimen collection when available, or dates of laboratory report otherwise. The number of days between symptom onset and date of first specimen collected (or date of laboratory report) was modeled using negative binomial regression with the date of first specimen collected (or date of laboratory report) as the predictor.
+Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2020, we estimated effective reproduction numbers (R<sub>t</sub>) by date, using dates of symptoms onset and social contact information (wherever available) in each county independently by estimating the transmission probability matrix. Among 118,491 confirmed cases, 48,887 (41.3%) had a missing date of symptom onset. These missing symptom onset dates were imputed based on dates of first specimen collection when available, or dates of laboratory report otherwise. The number of days between symptom onset and date of first specimen collected (or date of laboratory report) was modeled using negative binomial regression with the date of first specimen collected (or date of laboratory report) as the predictor.
 
 ## Main Results
 
@@ -45,9 +45,13 @@ Figure 3. Distributions of estimated dates of first maximum, minimum, and second
 Figure 4. Transmission pattern categories based on epidemic curves and estimated Rt curves 
 
 **• Consistent spreading:** sustained transmission of COVID-19 (R<sub>t</sub> > 1) during the shelter-in-place period. Consequently, numbers of cases were high and increased rapidly upon reopening.
+
 **• Two strong waves:** a first wave of early transmission followed by a slowdown (R<sub>t</sub> < 1) during the shelter-in-place period. After reopening, a new surge in cases (1 <= R<sub>t</sub> < 2) appeared.
+
 **• Strong first wave:** a considerable number of cases during the initial period of the outbreak. During the shelter-in-place period spreading was controlled and after reopening no new surge in cases occurred (R<sub>t</sub> < 1).
+
 **• Strong second wave**: there were few cases during the early transmission period, but a surge in new cases (R<sub>t</sub> >= 2) after reopening.
+
 **• Small case number (n < 200)**: COVID-19 transmission was rare.
 
 4. **Counties around major cities and along interstate highways had more intense transmission in Georgia (Figure 5).**
