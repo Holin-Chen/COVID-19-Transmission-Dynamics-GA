@@ -28,7 +28,7 @@ Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2
 
 Figure 1. The estimated serial interval distribution for three time periods
 
-<p style="text-align: center;">Figure 1. The estimated serial interval distribution for three time periods</p>
+<div style="text-align: center;">Figure 1. The estimated serial interval distribution for three time periods</div>
 
 2. **The major transmission shifted from elder generation to younger generation: from ages 40–70 years old in February–April to 20–50 years old in June–July (Figure 2).**
 
