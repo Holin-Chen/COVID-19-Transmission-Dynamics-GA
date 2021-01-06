@@ -57,15 +57,15 @@ Figure 3. Distributions of estimated dates of first maximum, minimum, and second
 </div>
 <br/><br/>
 
-**• Consistent spreading:** sustained transmission of COVID-19 (R<sub>t</sub> > 1) during the shelter-in-place period. Consequently, numbers of cases were high and increased rapidly upon reopening.
+**(a) Consistent spreading:** sustained transmission of COVID-19 (R<sub>t</sub> > 1) during the shelter-in-place period. Consequently, numbers of cases were high and increased rapidly upon reopening.
 
-**• Two strong waves:** a first wave of early transmission followed by a slowdown (R<sub>t</sub> < 1) during the shelter-in-place period. After reopening, a new surge in cases (1 <= R<sub>t</sub> < 2) appeared.
+**(b) Two strong waves:** a first wave of early transmission followed by a slowdown (R<sub>t</sub> < 1) during the shelter-in-place period. After reopening, a new surge in cases (1 <= R<sub>t</sub> < 2) appeared.
 
-**• Strong first wave:** a considerable number of cases during the initial period of the outbreak. During the shelter-in-place period spreading was controlled and after reopening no new surge in cases occurred (R<sub>t</sub> < 1).
+**(c) Strong first wave:** a considerable number of cases during the initial period of the outbreak. During the shelter-in-place period spreading was controlled and after reopening no new surge in cases occurred (R<sub>t</sub> < 1).
 
-**• Strong second wave**: there were few cases during the early transmission period, but a surge in new cases (R<sub>t</sub> >= 2) after reopening.
+**(d) Strong second wave**: there were few cases during the early transmission period, but a surge in new cases (R<sub>t</sub> >= 2) after reopening.
 
-**• Small case number (n < 200)**: COVID-19 transmission was rare.
+**(e) Small case number (n < 200)**: COVID-19 transmission was rare.
 
 ### 4. **Counties around major cities and along interstate highways had more intense transmission in Georgia (Figure 5).**
 
