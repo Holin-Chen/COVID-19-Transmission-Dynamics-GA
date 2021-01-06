@@ -18,7 +18,7 @@ Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2
 
 ## Main Results
 
-1. **The average serial interval became shorter over time: from 5.97 days in February–April,186 to 5.03 days in May, and then to 4.40 days in June–July (Figure 1).**
+### 1. **The average serial interval became shorter over time: from 5.97 days in February–April,186 to 5.03 days in May, and then to 4.40 days in June–July (Figure 1).**
 
 <p align="center">
   <img src="https://github.com/Holin-Chen/COVID-19-Transmission-Dynamics-GA/blob/main/Paper%20Plots/Picture1.png" />
@@ -28,7 +28,8 @@ Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2
   Figure 1. The estimated serial interval distribution for three time periods
 </div>
 
-2. **The major transmission shifted from elder generation to younger generation: from ages 40–70 years old in February–April to 20–50 years old in June–July (Figure 2).**
+
+### 2. **The major transmission shifted from elder generation to younger generation: from ages 40–70 years old in February–April to 20–50 years old in June–July (Figure 2).**
 
 <p align="center">
   <img src="https://github.com/Holin-Chen/COVID-19-Transmission-Dynamics-GA/blob/main/Paper%20Plots/Picture2.png" />
@@ -38,7 +39,8 @@ Using GDPH data on cases confirmed with COVID-19 during February 1– July 13, 2
   Figure 2. Patterns of COVID-19 disease transmission by age group in three successive time periods
 </div>
 
-3. **By mid-July, two waves of COVID-19 transmission were apparent, separated by the shelter-in-place period in the state of Georgia.**
+
+### 3. **By mid-July, two waves of COVID-19 transmission were apparent, separated by the shelter-in-place period in the state of Georgia.**
 
 - The general pattern of transmission on R<sub>t</sub> was similar across all counties: a “first wave” started higher than 1 and then decreased until early May, followed by a “second wave” after the shelter-in-place order was lifted  (Figure 3).
 
@@ -53,6 +55,7 @@ Figure 3. Distributions of estimated dates of first maximum, minimum, and second
 <div align="center">
   Figure 4. Transmission pattern categories based on epidemic curves and estimated Rt curves 
 </div>
+
 **• Consistent spreading:** sustained transmission of COVID-19 (R<sub>t</sub> > 1) during the shelter-in-place period. Consequently, numbers of cases were high and increased rapidly upon reopening.
 
 **• Two strong waves:** a first wave of early transmission followed by a slowdown (R<sub>t</sub> < 1) during the shelter-in-place period. After reopening, a new surge in cases (1 <= R<sub>t</sub> < 2) appeared.
@@ -63,7 +66,7 @@ Figure 3. Distributions of estimated dates of first maximum, minimum, and second
 
 **• Small case number (n < 200)**: COVID-19 transmission was rare.
 
-4. **Counties around major cities and along interstate highways had more intense transmission in Georgia (Figure 5).**
+### 4. **Counties around major cities and along interstate highways had more intense transmission in Georgia (Figure 5).**
 
 <p align="center">
   <img src="https://github.com/Holin-Chen/COVID-19-Transmission-Dynamics-GA/blob/main/Paper%20Plots/Picture5.jpg" />
