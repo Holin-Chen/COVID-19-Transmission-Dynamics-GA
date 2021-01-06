@@ -55,6 +55,7 @@ Figure 3. Distributions of estimated dates of first maximum, minimum, and second
 <div align="center">
   Figure 4. Transmission pattern categories based on epidemic curves and estimated Rt curves 
 </div>
+<br/><br/>
 
 **• Consistent spreading:** sustained transmission of COVID-19 (R<sub>t</sub> > 1) during the shelter-in-place period. Consequently, numbers of cases were high and increased rapidly upon reopening.
 
